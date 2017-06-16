@@ -4,9 +4,9 @@ html {
 
 body {
   background-color: lightgray; 
-  margin-top: 75;
+  margin-top: 75px;
   margin-right: 150px;
-  margin-bottom: 75;
+  margin-bottom: 75px;
   margin-left: 150px;
   border: 2px solid black;
   border-radius: 5px;
