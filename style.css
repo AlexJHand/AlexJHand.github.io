@@ -36,6 +36,11 @@ h1 {
   font-size: 45px;  
 }
 
+.textBlock {
+  width: 600px;
+  justify-content: center;
+}
+
 .schoolDetails {
   display: flex;  
 }
