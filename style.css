@@ -3,5 +3,5 @@ body {
 }
 
 .schoolDetails {
-  display: inline;  
+  display: flex;  
 }
