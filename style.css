@@ -50,14 +50,8 @@ body {
 
 .schoolLocation {
   display: inline;
-  justify-content: left;
-  margin-top: 10px;
-  margin-bottom: 50px;
 }
 
 .schoolYears {
-  display: inline;
-  justify-content: right;
-  margin-top: 10px;
-  margin-bottom: 50px;
+  float: right;
 }
