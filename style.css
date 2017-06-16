@@ -25,13 +25,16 @@ h1 {
 .contactInfo {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
 }
 
 .contactInfoItem {
   margin: 10px;
 }
 
+.sectionTitle {
+  font-size: 45px;  
+}
 
 .schoolDetails {
   display: flex;  
