@@ -17,6 +17,12 @@ body {
   padding-left: 50px;
 }
 
+.contactInfo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .schoolDetails {
   display: flex;  
 }
