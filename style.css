@@ -18,6 +18,10 @@ body {
   font: Verdana, Geneva, sans-serif;
 }
 
+#name {
+  font-size: 200%;  
+}
+
 .contactInfo {
   display: flex;
   flex-wrap: wrap;
