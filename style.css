@@ -4,7 +4,10 @@ html {
 
 body {
   background-color: lightgray; 
-  margin: 150px;
+  margin-top: 75;
+  margin-right: 150px;
+  margin-bottom: 75;
+  margin-right: 150px;
   border: 2px solid black;
   border-radius: 5px;
   padding-top: 20px;
