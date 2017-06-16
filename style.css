@@ -1,6 +1,7 @@
 body {
   background-color: lightgray; 
   margin: 50px;
+  border: 10px solid black;
 }
 
 .schoolDetails {
