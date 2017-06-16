@@ -81,6 +81,7 @@ body {
 
 .jobTitle {
   display: inline;
+  padding-left: 20px;
 }
 
 .jobYears {
