@@ -44,6 +44,20 @@ body {
   padding: 10px;
 }
 
-.schoolDetails {
-  display: flex;  
+.schoolName {
+    font-size: 30px;
+}
+
+.schoolLocation {
+  display: inline;
+  justify-content: left;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.schoolYears {
+  display: inline;
+  justify-content: right;
+  margin-top: 10px;
+  margin-bottom: 50px;
 }
