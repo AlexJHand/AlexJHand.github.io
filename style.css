@@ -67,21 +67,22 @@ body {
 }
 
 .jobBlock {
-  
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .jobName {
-  
+  font-size: 30px;
 }
 
 .jobLocation {
-  
+  display: inline;
 }
 
 .jobTitle {
-  
+  display: inline;
 }
 
 .jobYears {
-  
+   float: right;
 }
