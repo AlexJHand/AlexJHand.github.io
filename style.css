@@ -23,6 +23,11 @@ body {
   justify-content: center;
 }
 
+.contactInfoItem {
+  margin: 20px;
+}
+
+
 .schoolDetails {
   display: flex;  
 }
